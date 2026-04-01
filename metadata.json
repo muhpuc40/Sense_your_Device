@@ -1,0 +1,5 @@
+{
+  "name": "SenseYourDevice (SYD)",
+  "description": "A modern IoT platform for connecting and managing devices in real-time with simple API integration.",
+  "requestFramePermissions": []
+}
